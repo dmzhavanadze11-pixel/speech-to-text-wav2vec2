@@ -1,0 +1,8 @@
+models/
+data/
+*.bin
+*.pt
+*.pth
+venv/
+myenv/
+__pycache__/
